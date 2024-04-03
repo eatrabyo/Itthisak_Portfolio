@@ -11,10 +11,12 @@
 
 # [3: Thai Hand Writing Number Classification](https://github.com/eatrabyo/dads-6003-thai_num_classification)
 
-|**Models**|**Random Forest**|**Extra Trees Classifier**|**XGBoost**|**Neural Network**|**Logistic**|
-|---|:---:|:---:|:---:|:---:|:---:|
-|**Accuracy Train**|_0.9682_|_0.9462_|_0.8193_|__0.9812__|_0.9483_|
-|**Accuracy Test**|*0.7907*|*0.7694*|*0.7093*|__0.7982__|*0.7970*|
-
 ![](/images/246652790-45f915aa-0dbe-4d55-870c-9bdcf6d3e250.png)
 
+# [4: Internet Firewall Classification](https://github.com/eatrabyo/dads-6003-firewall-ml)
+
+![](/images/251341309-14e928be-6b5d-4c9b-a293-6650c66f0ac3.png)
+
+# [5: Deer Family image classification](https://github.com/eatrabyo/dads_7202_cnn_homework)
+
+# [6: Tiktok Video Multi-Label Classification](https://github.com/eatrabyo/multi_label_classification_on_tik_tok_videos)
