@@ -21,7 +21,7 @@ Conduct classification of Internet firewall actions using UCI's firewall dataset
 
 ![](/images/251341309-14e928be-6b5d-4c9b-a293-6650c66f0ac3.png)
 
-# [5: Deer Family image classification](https://github.com/eatrabyo/dads_7202_cnn_homework)
+# [5: Deer Family image classification](https://github.com/eatrabyo/dads_7202_deer_image_classification)
 Conduct multi-class classification on a dataset of images from 4 classes within the Deer family, and compare the performance of CNN architectures.
 
 ![](/images/densegrad.png)
