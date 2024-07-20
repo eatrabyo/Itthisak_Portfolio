@@ -18,5 +18,8 @@
 ![](/images/251341309-14e928be-6b5d-4c9b-a293-6650c66f0ac3.png)
 
 # [5: Deer Family image classification](https://github.com/eatrabyo/dads_7202_cnn_homework)
+Perform multi-class classification on 4 classes of Deer family images dataset and compare the performance of CNN architectures.
+
+![](/images/densegrad.png)
 
 # [6: Tiktok Video Multi-Label Classification](https://github.com/eatrabyo/multi_label_classification_on_tik_tok_videos)
