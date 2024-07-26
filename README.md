@@ -28,3 +28,5 @@ Conduct multi-class classification on a dataset of images from 4 classes within 
 
 # [6: Tiktok Video Multi-Label Classification](https://github.com/eatrabyo/multi_label_classification_on_tik_tok_videos)
 Implementing multi-label classification of TikTok videos using Transformer architecture.
+
+![](/images/352024593-af00cbbd-72eb-4fc8-9a60-b65f7c353d44.png)
