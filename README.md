@@ -30,3 +30,6 @@ Conduct multi-class classification on a dataset of images from 4 classes within 
 Implementing multi-label classification of TikTok videos using Transformer architecture.
 
 ![](/images/352024593-af00cbbd-72eb-4fc8-9a60-b65f7c353d44.png)
+
+# [7: Autoencoder for PE Malware Detection](https://github.com/eatrabyo/is_autoencode_malware)
+Creating Autoencoders to reduce dimensionality and capture the best feature representations from the malware dataset, and then using a Deep Neural Network to classify the malware.
