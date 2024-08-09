@@ -33,3 +33,5 @@ Implementing multi-label classification of TikTok videos using Transformer archi
 
 # [7: Autoencoder for PE Malware Detection](https://github.com/eatrabyo/is_autoencode_malware)
 Creating Autoencoders to reduce dimensionality and capture the best feature representations from the malware dataset, and then using a Deep Neural Network to classify the malware.
+
+![](/images/ae.png)
