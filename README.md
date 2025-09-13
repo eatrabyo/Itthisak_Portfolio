@@ -35,3 +35,8 @@ Implementing multi-label classification of TikTok videos using Transformer archi
 Creating Autoencoders to reduce dimensionality and capture the best feature representations from the malware dataset, and then using a Deep Neural Network to classify the malware.
 
 ![](/images/ae.png)
+
+# [8: IMDB Movie RAG API Using Qdrant Vector Database](https://github.com/eatrabyo/imdb-movie-rag)
+A RAG-powered Q&A system for IMDB movie data with streaming API support and local deployment options.
+
+![](/images//dataset-card.jpg)
